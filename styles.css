@@ -1,0 +1,76 @@
+
+.main{
+    background-color: black;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.resume-heading{
+    width: 100%;
+    height: 200px;
+    background-color: #8D4B55;
+
+}
+
+.profile-pic > img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 75px;
+}
+
+.resume-heading .head-content{
+    text-align: right;
+    color: #FFFFFF;
+    margin-right: 10%;
+    font-size: 4rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 5px;
+}
+
+.left-content{
+    position: absolute;
+    top: 310px;
+    left: 20px;
+    /* border: #8D4B55 solid 10px; */
+    width: 25%;
+    margin-left: 50px;
+    padding: 10px;
+    /* height: 100%; */
+}
+
+.right-content{
+    position: absolute;
+    top: 210px;
+    left: 40%;
+    /* border: #8D4B55 solid 10px; */
+    width: 57%;
+    /* height: 100%; */
+  
+}
+
+h2{
+    color: #8D4B55;
+    margin-bottom: 30px;
+}
+
+hr{
+    border:#8D4B55 solid 2px;
+}
+
+.horizontal-line{
+    width: 150px;
+}
+
+.end{
+    width: 100%;
+    height: 20px;
+    background-color: #8D4B55;
+    position: absolute;
+    top: 312%;
+}
+
